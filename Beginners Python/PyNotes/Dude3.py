@@ -1,0 +1,5 @@
+print("Enter first Number")
+pen = input()
+print("Enter second number")
+paper = input()
+print("sum", int(pen) + int(paper))
