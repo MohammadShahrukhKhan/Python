@@ -19,7 +19,7 @@ listE = [ 'are', 'learning', 'right now']
 listE.insert(0, 'you') #prints in the specified position i.e. '0' here, without substituting anything
 print(listE)
 
-listF = ['so', 'lets', 'get', 'started']
+listF = ['so', 'let\'s', 'get', 'started']
 listF.remove('so')
 print(listF)
 
