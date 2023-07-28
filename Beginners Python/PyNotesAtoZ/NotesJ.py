@@ -1,6 +1,6 @@
 # Return Keyword in PYTHON 
 
-def funk(x, y):
+def fun(x, y):
     print('sum')
     sum = x + y
     return sum
@@ -8,4 +8,4 @@ def funk(x, y):
 l = int(input("x = "))
 m = int(input('y = '))
 
-print(funk(l, m))
+print(fun(l, m))
