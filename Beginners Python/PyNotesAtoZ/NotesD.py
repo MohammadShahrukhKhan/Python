@@ -28,15 +28,3 @@ print(len(colors))
 list1 = list(('hundred' , 100 , True))
 print(list1)
 print(type(list1))
-
-
-
-
-
-
-
-
-
-
-
-
