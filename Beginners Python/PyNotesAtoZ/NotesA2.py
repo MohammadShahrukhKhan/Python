@@ -1,17 +1,19 @@
-a, b = (10,5)
-print(a)
-print(b)
+x, y = (17,51)
+print(x)
+print(y)
 
-c, d = [20,'Hello']
-print(c)
-print(d)
+l, m = [34,'How do you do ?']
+print(l)
+print(m)
 
-health, energy, weapon = 100, 50, 'Sword'
-print(weapon)
+page, price, category = 100, 50, 'noteBook'
+print(category)
+print(price)
+print(page)
 
-# exercise
-value_1 = 10
-value_2 = 'test'
-#switch the values of the two variables
-value_1, value_2 = value_2, value_1
-print(value_1)
+axe1 = 90
+axe2 = 'success'
+
+#reverse the values of the two variables
+axe1, axe2 = axe2, axe1
+print(axe1)
