@@ -6,7 +6,7 @@ print(week[-5])
 print(week[5][1]) #letter 1 of index number 5
 print(week[2:]) #everything from index number 2
 print(week[2:6]) #everything from index number 2 to before 6
-print(week[-7:3])
+print(week[-7:3]) #everything from index number -7 to before 3
 
 #Tyoes ✌
 grah = [ 'intelligenceBureauJIOGrade2', 'exam' , 'cracked' , 'recruited' , True , 'employed' , 23]
