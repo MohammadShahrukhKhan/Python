@@ -2,15 +2,14 @@
 # This is a comment too 
 
 # Getting started with python 
-print('Hello' '\n' 'kaise ho')
-name = 'aapki baat'
-nom = 903
+print('How' '\n' 'are you')
+name = 'about'
+num = 99.999999
 print(name)
 
-print('wah ' + name + ' kar raha hai')
-print(name + ' ' + str(nom))
-#or
-print(name, nom)
+print('he' + ' was talking ' + name + ' you')
+print(str(num) + ' ' + 'is' + ' ' + name + ' ' + '100')
+print(name, num)
 
 print('This \n that') #\n for new line
 print('hello \'guys') #to add quotes
