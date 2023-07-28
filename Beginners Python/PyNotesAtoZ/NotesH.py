@@ -5,7 +5,7 @@ from pickle import TRUE
 x = 'aw'
 y = 'some'
 y_ = 'ekdum'
-z = 'Jhakaas'
+z = 'sahi'
 
 def popu(o, p):
     print('This is ' + o + p)
@@ -23,7 +23,7 @@ bhindi(y_, z)
 
 s = 'sansaar'
 t = True
-u = 456
+u = 100
 
 def tup(*j): #to make a tuple
     print(j)
