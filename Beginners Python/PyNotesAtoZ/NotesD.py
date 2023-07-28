@@ -1,5 +1,5 @@
 # list in python 😁
-planet = [ 'marz', 'mercurry' , 'zupiter' , 'SatEarn' , 'YourAnus' , 'NapTune' , 'BlueToe']
+planet = [ 'mass', 'markCurry' , 'jewPeter' , 'sayTurn' , 'yoRhinos' , 'naptha' , 'blueToe']
 print(planet)
 print(planet[0])
 print(planet[-5])
@@ -9,12 +9,12 @@ print(planet[2:6]) #everything from index number 2 to before 6
 print(planet[-7:3])
 
 #Tyoes ✌
-grah = [ '2kaan', '9kri' , 'ch0oRun' , '4pi' , False , '1Taa' , 26]
+grah = [ 'intelligenceBureauJIOGrade2', 'exam' , 'cracked' , 'recruited' , True , 'employed' , 23]
 print(grah)
-print(type(grah))
-print(type(grah[1]))
-print(type(grah[4]))
-print(type(grah[6]))
+print(type(grah)) #<class 'list'>
+print(type(grah[1])) #<class 'str'>
+print(type(grah[4])) #<class 'bool'>
+print(type(grah[6])) #<class 'int'>
 
 # substitute 
 coco = ['hoppo' , 'vico' , 'zaomi' , 'samsong' , 'chAPPLE']
