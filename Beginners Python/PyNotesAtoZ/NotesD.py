@@ -17,12 +17,12 @@ print(type(grah[4])) #<class 'bool'>
 print(type(grah[6])) #<class 'int'>
 
 # substitute 
-coco = ['hoppo' , 'vico' , 'zaomi' , 'samsong' , 'nipple']
-print(coco)
-coco[4] = 'onplus' #nipple is substituted with onplus
-print(coco[-5])
-print(coco[0])
-print(len(coco))
+colors = ['red' , 'blue' , 'green' , 'purple' , 'orange']
+print(colors)
+colors[4] = 'magenta' #orange is substituted by magenta
+print(colors[-5])
+print(colors[0])
+print(len(colors))
 
 #  Another way of making list 
 list1 = list(('hundred' , 100 , True))
