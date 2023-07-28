@@ -1,9 +1,9 @@
 # FUNCTIONS IN PYTHON CONTINUES 
-def gadaha(p, q):
+def race(p, q):
     print('Hello', p, 'you secured' , q)
 
 x = input('Name : ')
 y = input('Grade : ')
 
-gadaha(x, y)
+race(x, y)
 
