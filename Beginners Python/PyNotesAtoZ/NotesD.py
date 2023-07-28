@@ -1,4 +1,4 @@
-# list in python 😁
+# list in python
 week = [ 'sunday', 'monday' , 'tuesday' , 'wednesday' , 'thursday' , 'friday' , 'saturday']
 print(week)
 print(week[0])
@@ -8,13 +8,13 @@ print(week[2:]) #everything from index number 2
 print(week[2:6]) #everything from index number 2 to before 6
 print(week[-7:3]) #everything from index number -7 to before 3
 
-#Tyoes ✌
-grah = [ 'intelligenceBureauJIOGrade2', 'exam' , 'cracked' , 'recruited' , True , 'employed' , 23]
-print(grah)
-print(type(grah)) #<class 'list'>
-print(type(grah[0])) #<class 'str'>
-print(type(grah[4])) #<class 'bool'>
-print(type(grah[6])) #<class 'int'>
+#Tyoes
+graph = ['line graphs', 'bar graphs', 'pie charts', 'scatter plots', True, 'histograms', 87]
+print(graph)
+print(type(graph)) #<class 'list'>
+print(type(graph[0])) #<class 'str'>
+print(type(graph[4])) #<class 'bool'>
+print(type(graph[6])) #<class 'int'>
 
 # substitute 
 colors = ['red' , 'blue' , 'green' , 'purple' , 'orange']
