@@ -12,7 +12,7 @@ print(str(num) + ' ' + 'is' + ' ' + name + ' ' + '100')
 print(name, num)
 
 print('This \n that') #\n for new line
-print('hey guys it\'s shahrukh') #to add quotes
+print('hey guys it\'s shahrukh') #add backslash before ' (quote) to be able to use ' (quote)
 
 ha = 'yes'
 na = 'NOPE'
