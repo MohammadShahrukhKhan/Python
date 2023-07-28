@@ -1,4 +1,4 @@
-listG = ['money', 'money', 'i\'ve got', 'lots of', 'money']
+listG = ['gold', 'gold', 'silver', 'silver', 'gold']
 print(listG)
 print(listG.count('money')) #counts the no. of occurence of the same element
 
