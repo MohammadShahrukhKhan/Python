@@ -12,7 +12,7 @@ print(week[-7:3]) #everything from index number -7 to before 3
 grah = [ 'intelligenceBureauJIOGrade2', 'exam' , 'cracked' , 'recruited' , True , 'employed' , 23]
 print(grah)
 print(type(grah)) #<class 'list'>
-print(type(grah[1])) #<class 'str'>
+print(type(grah[0])) #<class 'str'>
 print(type(grah[4])) #<class 'bool'>
 print(type(grah[6])) #<class 'int'>
 
