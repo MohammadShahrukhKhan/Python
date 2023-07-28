@@ -1,6 +1,6 @@
 listG = ['money', 'money', 'i\'ve got', 'lot of', 'money']
 print(listG)
-print(listG.count('haan')) #counts the no. of occurence of the same element
+print(listG.count('money')) #counts the no. of occurence of the same element
 
 ListH = [ 1, 3, 2, 7, 9, 8, 4, 6, 5]
 ListH.sort() #sorts the list in ascending order
