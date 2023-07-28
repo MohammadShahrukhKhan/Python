@@ -4,8 +4,8 @@ from pickle import TRUE
 
 x = 'aw'
 y = 'some'
-y_ = 'ekdum'
-z = 'sahi'
+y_ = 'absolutely'
+z = 'good'
 
 def popu(o, p):
     print('This is ' + o + p)
