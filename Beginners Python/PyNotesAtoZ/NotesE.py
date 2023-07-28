@@ -16,7 +16,7 @@ print(listD)
 print(len(listD)) #length of list changes from 3 to 4 after execution of append
 
 listE = [ 'seekho', 'kuchh', 'isse']
-listE.insert(0, 'tum') #prinsts in specified position without substituting anything
+listE.insert(0, 'tum') #prints in a specified position without substituting anything
 print(listE)
 
 listF = ['chaliye', 'shuru', 'karte', 'hain']
