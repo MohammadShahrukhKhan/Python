@@ -4,8 +4,8 @@ ListB = [ 'hi' , 98 , False]
 listA.extend(ListB) #to combine two lists
 print(listA)
 
-listC = ['cell' , 'is' , 'battery']
-listD = ['cell' , 'is' , 'prison']
+listC = ['cell' , 'is a' , 'battery']
+listD = ['cell' , 'is a' , 'prison']
 print(listC)
 print(listD)
 print(len(listD))
@@ -15,17 +15,17 @@ listD.append(True)
 print(listD)
 print(len(listD)) #length of list changes from 3 to 4 after execution of append
 
-listE = [ 'seekho', 'kuchh', 'isse']
-listE.insert(0, 'tum') #prints in a specified position without substituting anything
+listE = [ 'are', 'learning', 'right now']
+listE.insert(0, 'you') #prints in the specified position i.e. '0' here, without substituting anything
 print(listE)
 
-listF = ['chaliye', 'shuru', 'karte', 'hain']
-listF.remove('chaliye')
+listF = ['so', 'lets', 'get', 'started']
+listF.remove('so')
 print(listF)
 
-ListG = ['aap', 'padhai', 'kariye']
+ListG = ['you', 'better', 'focus']
 ListG.clear()
 print(ListG)
-listH = ['haan', 'tu', 'aapna', 'dekh', 'tu']
-print(listH.index('tu')) 
 
+listH = ['so', 'you', 'learn', 'and', 'practice']
+print(listH.index('learn')) 
