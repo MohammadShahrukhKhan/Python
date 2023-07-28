@@ -1,4 +1,5 @@
-listG = ['haan', 'haan', 'Main', 'hoon', 'haan']
+listG = ['money', 'money', 'i\'ve got', 'lot of', 'money']
+print(listG)
 print(listG.count('haan')) #counts the no. of occurence of the same element
 
 ListH = [ 1, 3, 2, 7, 9, 8, 4, 6, 5]
