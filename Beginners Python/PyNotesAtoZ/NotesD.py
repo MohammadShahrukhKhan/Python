@@ -25,9 +25,9 @@ print(coco[0])
 print(len(coco))
 
 #  Another way of making list 
-lists = list(('hundred' , 100 , True))
-print(lists)
-print(type(lists))
+list1 = list(('hundred' , 100 , True))
+print(list1)
+print(type(list1))
 
 
 
