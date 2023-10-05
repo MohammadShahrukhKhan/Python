@@ -1,7 +1,7 @@
 # user input continues 
-sense = input('Write your sentence')
-print(sense)
+sentence = input('Write your sentence')
+print(sentence)
 
-honey = input('Enter the word to replace')
-milk = input('Enter the word to replace it with')
-print(sense.replace(honey, milk)) 
+word = input('Enter the word to replace')
+substitute = input('Enter the word to replace it with')
+print(sentence.replace(word, substitute)) 
