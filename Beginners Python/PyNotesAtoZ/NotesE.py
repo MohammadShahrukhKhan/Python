@@ -1,6 +1,6 @@
 # List methods 
-listA = ['hey' , 77 , True]
-ListB = [ 'hi' , 98 , False]
+listA = ['this' , 'is' , True]
+ListB = [ 'that' , 'is' , False]
 listA.extend(ListB) #to combine two lists
 print(listA)
 
